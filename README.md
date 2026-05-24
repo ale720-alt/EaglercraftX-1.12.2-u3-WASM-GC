@@ -43,7 +43,7 @@ Esta versión usa **WASM-GC**, por lo que puede ser más rápida y estable que *
 Si la pantalla aparece en blanco:
 - Actualiza el navegador
 - Espera unos minutos 
-- O GitHub Pages decidió levantarse de malas ese día
+- O puede ser un error del archivo
   
 ---
 
