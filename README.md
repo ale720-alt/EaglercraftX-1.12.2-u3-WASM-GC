@@ -3,7 +3,7 @@
 ## 📥 Cómo descargar el archivo
 
 1. Entra al repositorio.
-2. Presiona el boton verde llamado "code"
+2. Presiona el boton verde llamado "Code"
 3. Haz click en "Download ZIP"
 6. Luego revisa que se descarge correctamente
 
