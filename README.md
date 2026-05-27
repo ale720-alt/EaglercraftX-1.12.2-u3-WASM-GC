@@ -52,4 +52,4 @@ Si la pantalla aparece en blanco:
 
 ## 👤 Autor
 
-- Creado originalmente por: **PeytonPlayz585**
+- Este proyecto pertenece a **PeytonPlayz595**
