@@ -47,7 +47,7 @@ Esta versión usa **WASM-GC**, por lo que puede ser más rápida y estable que *
 Si la pantalla aparece en blanco:
 - Actualiza el navegador
 - Espera unos minutos
-- O puede ser un error del archivo o de _Github pages_. dependiendo si estas jugando en **Archivo** o en**modo Web**.
+- O puede ser un error del archivo o de _Github pages_. dependiendo si estas jugando en **Archivo** o en **modo Web**.
   
 ---
 
