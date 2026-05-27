@@ -17,6 +17,7 @@
 - Abre el archivo ZIP y ya estando dentro de el ZIP abre el archivo .html
 - Espera a que cargue
 - ¡Listo! Ya puedes jugar la version mas reciente de Eaglercraft
+- O solo presiona el link que se encuentra debajo de la descripcion para jugar en modo web
 
 ---
 
@@ -45,8 +46,8 @@ Esta versión usa **WASM-GC**, por lo que puede ser más rápida y estable que *
 
 Si la pantalla aparece en blanco:
 - Actualiza el navegador
-- Espera unos minutos 
-- O puede ser un error del archivo
+- Espera unos minutos
+- O puede ser un error del archivo o de _Github pages_. dependiendo si estas jugando en **Archivo** o **Web**
   
 ---
 
